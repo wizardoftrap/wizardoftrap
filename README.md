@@ -22,4 +22,3 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-10244f?style=flat&logo=scikitlearn&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-0a0a23?style=flat&logo=tensorflow&logoColor=white)
 ![Google Looker](https://img.shields.io/badge/Looker-4285F4?style=flat&logo=looker&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=azure-devops&logoColor=white)
