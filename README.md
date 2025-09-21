@@ -1,3 +1,5 @@
+<h1 align="center">Shiv Prakash</h1>
+<h3 align="center">Data Science@DIOnce | IIT Ropar</h3>
 ## 🌐 Socials:
 [![Website](https://img.shields.io/badge/Website-%23000000.svg?logo=firefox&logoColor=white)](https://www.shivprakash.dev)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:shivprakashlps@gmail.com)
