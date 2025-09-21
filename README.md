@@ -28,7 +28,7 @@
 ![LLM](https://img.shields.io/badge/LLM-%23000000.svg?style=flat&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-%23430098.svg?style=flat&logo=langchain&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-%230078D4.svg?style=flat&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-%230078D4.svg?style=flat&logo=microsoftazure&logoColor=white)
+![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat&logo=postgresql&logoColor=white)
 ![AutoGen](https://img.shields.io/badge/AutoGen-%230078D4.svg?style=flat&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-%23FF6D5A.svg?style=flat&logo=n8n&logoColor=white)
