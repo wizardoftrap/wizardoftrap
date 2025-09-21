@@ -1,4 +1,6 @@
 ## 🌐 Socials:
+[![Website](https://img.shields.io/badge/Website-%23000000.svg?logo=firefox&logoColor=white)](https://www.shivprakash.dev)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:shivprakashlps@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shiv-prakash-verma-000133234)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sp_shivamverma)
 
@@ -25,8 +27,8 @@
 ![GenAI](https://img.shields.io/badge/GenAI-%23000000.svg?style=flat&logo=openai&logoColor=white)
 ![LLM](https://img.shields.io/badge/LLM-%23000000.svg?style=flat&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-%23430098.svg?style=flat&logo=langchain&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-%230078D4.svg?style=flat&logo=artificial-intelligence&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-%230078D4.svg?style=flat&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230078D4.svg?style=flat&logo=microsoftazure&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat&logo=postgresql&logoColor=white)
-![AutoGen](https://img.shields.io/badge/AutoGen-%230078D4.svg?style=flat&logo=autogen&logoColor=white)
+![AutoGen](https://img.shields.io/badge/AutoGen-%230078D4.svg?style=flat&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-%23FF6D5A.svg?style=flat&logo=n8n&logoColor=white)
