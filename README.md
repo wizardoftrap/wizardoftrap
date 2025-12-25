@@ -25,3 +25,7 @@
 ![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-%23FF6D5A.svg?style=flat&logo=n8n&logoColor=white)
+![Unsloth](https://img.shields.io/badge/Unsloth-000000?style=flat&logo=lightning&logoColor=yellow)
+![Hugging%20Face%20Transformers](https://img.shields.io/badge/Transformers-%23FFD21F.svg?style=flat&logo=huggingface&logoColor=black)
+![LangGraph](https://img.shields.io/badge/LangGraph-%2300A3A3.svg?style=flat&logo=langchain&logoColor=white)
+![Graphiti](https://img.shields.io/badge/Graphiti-%235B2EFF.svg?style=flat&logo=graphql&logoColor=white)
